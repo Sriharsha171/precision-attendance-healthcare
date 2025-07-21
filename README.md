@@ -21,11 +21,10 @@ Data stored in central database or local file
 
 
 ## 🤝 Authors
-Chandana S, Harsha Mohan G R, Pramodh S, Sriharsha B K
-Guided by Dr. Vidya E V
-East West Institute of Technology
-Department of Artificial Intelligence and Machine Learning
-
+Chandana S
+Harsha Mohan G R
+Pramodh S
+Sriharsha B K
 
 
 ## 🧠 Technology Stack
