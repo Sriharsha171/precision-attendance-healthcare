@@ -13,17 +13,24 @@ Manual attendance systems in hospitals can be error-prone, unhygienic, and time-
 
 ## 🧪 Features
 Real-time facial recognition using camera
+
 Contactless attendance logging
+
 Doctor-specific schedule popup
+
 GUI for data collection and monitoring
+
 Data stored in central database or local file
 
 
 
 ## 🤝 Authors
 Chandana S
+
 Harsha Mohan G R
+
 Pramodh S
+
 Sriharsha B K
 
 
