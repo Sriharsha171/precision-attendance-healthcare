@@ -52,6 +52,8 @@ Sriharsha B K
 - Monitor, Keyboard, Mouse
 - Raspbian OS 64-bit (or compatible Raspberry Pi OS)
 
+## Results
+### Interface
 
 
 ## 🖥️ How to Run
@@ -61,3 +63,5 @@ Sriharsha B K
 sudo apt update
 pip install -r requirements.txt
 python3 src/main.py
+
+
