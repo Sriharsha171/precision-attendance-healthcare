@@ -54,14 +54,13 @@ Sriharsha B K
 
 ## Results
 ### Interface
+![WhatsApp Image 2025-07-21 at 10 42 41 PM](https://github.com/user-attachments/assets/f8b8606b-0d90-4dc9-a955-050b06b39fb3)
+### Taking Images
+![WhatsApp Image 2025-07-21 at 10 42 43 PM](https://github.com/user-attachments/assets/457b1fb0-a118-4d6b-ab06-4f7ca690c4c7)
+### Docotr's Schedule
+![WhatsApp Image 2025-07-21 at 10 42 42 PM](https://github.com/user-attachments/assets/4f72f5b2-65e1-467b-b7c7-a070806dadb7)
 
 
-## 🖥️ How to Run
 
-```bash
-# On Raspberry Pi terminal
-sudo apt update
-pip install -r requirements.txt
-python3 src/main.py
 
 
