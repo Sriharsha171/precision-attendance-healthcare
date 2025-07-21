@@ -5,12 +5,11 @@ A contactless facial recognition-based attendance system built using Python, Ope
 
 > ⚠️ **Note**: This project is designed to run exclusively on a **Raspberry Pi** setup with a connected camera module.
 
----
 
 ## 👨‍⚕️ Problem Statement
 Manual attendance systems in hospitals can be error-prone, unhygienic, and time-consuming. This system replaces traditional methods with a facial recognition solution that offers speed, accuracy, and hygiene — essential in clinical settings.
 
----
+
 
 ## 🧪 Features
 Real-time facial recognition using camera
@@ -19,7 +18,7 @@ Doctor-specific schedule popup
 GUI for data collection and monitoring
 Data stored in central database or local file
 
----
+
 
 ## 🤝 Authors
 Chandana S, Harsha Mohan G R, Pramodh S, Sriharsha B K
@@ -27,7 +26,7 @@ Guided by Dr. Vidya E V
 East West Institute of Technology
 Department of Artificial Intelligence and Machine Learning
 
----
+
 
 ## 🧠 Technology Stack
 - Raspberry Pi 4 (8GB RAM)
@@ -38,7 +37,7 @@ Department of Artificial Intelligence and Machine Learning
 - Tkinter (GUI)
 - Pandas, NumPy
 
----
+
 
 ## 🔧 Hardware Requirements
 
@@ -47,7 +46,7 @@ Department of Artificial Intelligence and Machine Learning
 - Monitor, Keyboard, Mouse
 - Raspbian OS 64-bit (or compatible Raspberry Pi OS)
 
----
+
 
 ## 🖥️ How to Run
 
