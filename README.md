@@ -12,6 +12,23 @@ Manual attendance systems in hospitals can be error-prone, unhygienic, and time-
 
 ---
 
+## 🧪 Features
+Real-time facial recognition using camera
+Contactless attendance logging
+Doctor-specific schedule popup
+GUI for data collection and monitoring
+Data stored in central database or local file
+
+---
+
+## 🤝 Authors
+Chandana S, Harsha Mohan G R, Pramodh S, Sriharsha B K
+Guided by Dr. Vidya E V
+East West Institute of Technology
+Department of Artificial Intelligence and Machine Learning
+
+---
+
 ## 🧠 Technology Stack
 - Raspberry Pi 4 (8GB RAM)
 - Python 3
@@ -20,9 +37,6 @@ Manual attendance systems in hospitals can be error-prone, unhygienic, and time-
 - Histogram of Oriented Gradients (HOG)
 - Tkinter (GUI)
 - Pandas, NumPy
-
----
-
 
 ---
 
